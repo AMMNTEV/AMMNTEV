@@ -10,5 +10,5 @@
 [Telegram](https://t.me/sshurikkm)
 
 <p align="center">
-  <img src="SVG" />
+  <img src="SVG.svg" />
 </p>
